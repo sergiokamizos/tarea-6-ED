@@ -6,7 +6,7 @@
 package ed06_tareaproyecto;
 
 /*
-Este comentario no estaba anteriormente
+Este comentario no estaba anteriormente.
 */
 
 /**
